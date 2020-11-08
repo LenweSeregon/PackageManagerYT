@@ -1,0 +1,12 @@
+{
+	"name" : "com.semicolon.packageyt",
+	"displayName" : "Package YT",
+	"version" : "1.0.0",
+	"description" : "Package youtube pour comprendre les packages",
+	"unity" : "2020.1",
+	"author" : {
+		"name" : "123123",
+		"email" : "123123@gmail.com"
+	},
+	"type" : "tool"
+}
